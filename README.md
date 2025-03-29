@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0198-house-robber) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
