@@ -2,7 +2,7 @@ class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         prev = None
         idx = 0
-        k = len(set(nums))
+        # k = len(set(nums))
         for x in nums:
             if prev is None:
                 prev = x
@@ -12,6 +12,4 @@ class Solution:
                 prev = x
                 idx += 1
 
-
-        print(nums)
-        return k
+        return idx
