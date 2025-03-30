@@ -19,7 +19,6 @@ class Solution:
                 if prev >= curr:
                     prev = curr
                     ans += prev
-                    print(ans)
                 elif prev < curr:
                     ans = ans + curr - 2*prev
                     prev = curr - prev
