@@ -42,15 +42,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0560-subarray-sum-equals-k](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## String
 |  |
 | ------- |
@@ -60,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
