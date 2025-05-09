@@ -1,15 +1,14 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-        sum_dict = {}
+        seen_set = (2, 3, 4, 5, 6, 8, 9)
         temp_num = n
         while True:
+            # seen_set.add(temp_num)
+            temp_num = sum([int(x)**2 for x in str(temp_num)])
             if temp_num == 1:
                 return True
-            elif temp_num in sum_dict:
+            if temp_num in seen_set:
                 return False
-            else:
-                sum_dict[temp_num] = 1
-                temp_num = sum([int(x)**2 for x in str(temp_num)])
         
 
 
