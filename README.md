@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0507-perfect-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2556-convert-the-temperature](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2556-convert-the-temperature) |
