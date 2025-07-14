@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0507-perfect-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2556-convert-the-temperature](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2556-convert-the-temperature) |
