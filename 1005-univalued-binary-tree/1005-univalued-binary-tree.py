@@ -12,10 +12,4 @@ class Solution:
     def nodeValuesEqual(self, node):
         if node is None:
             return True
-        # print(node.val == self.root_val)
-        # if node.val == self.root_val:
-        #     self.nodeValuesEqual(node.left)
-        #     self.nodeValuesEqual(node.right)
-        # else:
-        #     return False
         return node.val == self.root_val and self.nodeValuesEqual(node.left) and self.nodeValuesEqual(node.right)
