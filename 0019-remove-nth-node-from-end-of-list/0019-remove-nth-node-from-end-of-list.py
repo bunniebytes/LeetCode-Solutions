@@ -8,21 +8,18 @@ class Solution:
         # assign 2 pointers where p2 is moved to the nth node
         p1 = head
         p2 = head
-        # (e.g n = 2 move to next node twice):
+        # loop through range of n so p2 is now at 2nd node (e.g n = 2)
         for x in range(n):
             p2 = p2.next
-        if n is 1 and p2 is None: # (This is after assigning p2 to nth node)
-            return p2
-        # need to check if p2 is valid - if not that means that n = length of linked list and we need to remove the 1st element aka return head.next
+        # check if p2 is not valid:
         if p2 is None:
             return head.next
-        # once p2 is in place loop through while p2.next is valid
+        # while p2.next is valid:
         while p2.next:
-            # if valid move p1 and p2 to next
-            p1 = p1.next
-            p2 = p2.next
-        # if p2.next is no longer valid p1.next should be the nth node from the end
-        # assign p1.next to p1.next.next (This will remove the nth node which is p1.next)
+            # move p1 and p2 to next node
+            p1, p2 = p1.next, p2.next
+        # if p2 is no longer valid:
+        # we know current p1 node is 3 (in first example) and we want the next node
+        #to skip 4 (since that is the 2nd node from the end) and be node 5
         p1.next = p1.next.next
-        # return the head of linked list
         return head
