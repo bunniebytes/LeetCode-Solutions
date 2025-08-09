@@ -11,5 +11,4 @@ class Solution:
                 player_xp += (((xp + 1) - player_xp) + xp)
             else:
                 player_xp += xp
-        print(energy_hours, xp_hours)
         return energy_hours + xp_hours
