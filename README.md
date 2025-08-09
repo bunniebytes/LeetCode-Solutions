@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 ## Dynamic Programming
 |  |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+## Greedy
+|  |
+| ------- |
+| [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 <!---LeetCode Topics End-->
