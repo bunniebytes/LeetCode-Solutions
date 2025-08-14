@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [1013-fibonacci-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
