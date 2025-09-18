@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -200,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
