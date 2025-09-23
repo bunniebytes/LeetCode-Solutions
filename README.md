@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [3790-fruits-into-baskets-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [3790-fruits-into-baskets-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Tree
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [3790-fruits-into-baskets-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -225,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
