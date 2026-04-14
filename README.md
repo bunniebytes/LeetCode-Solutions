@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 ## Simulation
