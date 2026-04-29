@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2684-determine-the-winner-of-a-bowling-game) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 ## Divide and Conquer
 |  |
