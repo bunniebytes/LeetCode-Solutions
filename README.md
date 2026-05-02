@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
