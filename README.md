@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0796-rotate-string](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3379-score-of-a-string](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
