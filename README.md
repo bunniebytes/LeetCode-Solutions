@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0554-brick-wall](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0554-brick-wall](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
