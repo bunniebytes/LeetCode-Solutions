@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0796-rotate-string](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3379-score-of-a-string](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
 ## Prefix Sum
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
