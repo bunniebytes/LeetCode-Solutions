@@ -1,7 +1,6 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
         decrease = 0
-        end = None
         split = None
         for idx in range(len(nums) - 1):
             if nums[idx] > nums[idx + 1]:
