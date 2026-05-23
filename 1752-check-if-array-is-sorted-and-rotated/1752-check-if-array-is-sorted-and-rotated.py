@@ -1,14 +1,14 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
-        sorted_nums = sorted(nums)
-        # double_nums = nums * 2
-        first_item = sorted_nums[0]
-        slice_idx = []
-        for idx, num in enumerate(nums):
-            if first_item == num:
-                slice_idx.append(idx)
-        for idx in slice_idx:
-            sliced_nums = nums[idx:]+nums[:idx]
-            if sorted_nums == sliced_nums:
-                return True
-        return False
+        decrease = 0
+        end = None
+        split = None
+        for idx in range(len(nums) - 1):
+            if nums[idx] > nums[idx + 1]:
+                decrease += 1
+                split = idx
+            if split is not None and (nums[split] < nums[idx + 1] or nums[0] < nums[-1]):
+                    return False
+        if decrease > 1:
+            return False
+        return True
