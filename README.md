@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
