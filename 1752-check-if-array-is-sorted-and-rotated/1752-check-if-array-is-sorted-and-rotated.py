@@ -7,8 +7,6 @@ class Solution:
             if nums[idx] > nums[idx + 1]:
                 decrease += 1
                 split = idx
-            if split is not None and (nums[split] < nums[idx + 1] or nums[0] < nums[-1]):
+            if (split is not None and nums[0] < nums[-1]) or decrease > 1:
                     return False
-        if decrease > 1:
-            return False
         return True
