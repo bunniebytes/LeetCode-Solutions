@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1861-rotating-the-box](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3790-fruits-into-baskets-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Tree
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3606-coupon-code-validator](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
