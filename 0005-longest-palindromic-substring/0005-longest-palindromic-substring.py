@@ -6,6 +6,8 @@ class Solution:
 
         # loop through first in range(len)
         for first in range(len_str):
+            if len(longest_pal) > (len_str - first):
+                return longest_pal
             for last in reversed(range(len_str)):
                 if s[first] == s[last]:
                     curr_str = s[first:last + 1]
@@ -13,7 +15,5 @@ class Solution:
                     if curr_str == curr_reversed:
                         if len(curr_str) > len(longest_pal):
                             longest_pal = curr_str
-                        if len(longest_pal) > (len_str - first):
-                            return longest_pal
 
         return longest_pal
