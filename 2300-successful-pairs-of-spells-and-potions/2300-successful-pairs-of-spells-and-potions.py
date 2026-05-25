@@ -1,10 +1,11 @@
 class Solution:
     def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:
-        result = [0] * len(spells)
+        result = []
         potions.sort()
+        len_potions = len(potions)
         for idx, spell in enumerate(spells):
             left = 0
-            right = len(potions) - 1
+            right = len_potions - 1
             # if spell * potions[left] >= success:
             #     result[idx] = len(potions)
             #     continue
@@ -17,9 +18,9 @@ class Solution:
                 else:
                     left = mid + 1
             if spell * potions[mid] >= success:
-                result[idx] = (len(potions) - mid)
+                result.append(len_potions - mid)
             else:
-                result[idx] = (len(potions) - right - 1)
+                result.append(len_potions - right - 1)
 
         return result
 
