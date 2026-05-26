@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0554-brick-wall](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0389-find-the-difference](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3606-coupon-code-validator](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
