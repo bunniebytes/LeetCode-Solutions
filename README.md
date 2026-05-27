@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3606-coupon-code-validator](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 ## Array
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3379-score-of-a-string](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 ## Prefix Sum
