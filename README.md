@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Tree
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3606-coupon-code-validator](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
