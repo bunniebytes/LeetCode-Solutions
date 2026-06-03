@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Tree
 |  |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3606-coupon-code-validator](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
