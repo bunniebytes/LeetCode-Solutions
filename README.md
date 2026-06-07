@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/teabunniecodes/LeetCode-Solutions/tree/master/0389-find-the-difference) |
